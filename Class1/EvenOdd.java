@@ -47,6 +47,30 @@ public static void main(String args[]){
     //if wrong display the msg whther guess is greater than or less than the number
 
 
+    //variables
+        tryCount -for tracking the no. of retries
+        maxRetryCount  
+        actualNo. 
+        guessedno. 
+
+        //Brief Sketch
+
+        /*
+
+            Select a random no. between 1-30
+
+            while retrycount < MAxretry
+                    read input from user
+                    compare it with actula no.
+                    display appropriate msg  for <,> ,=
+
+
+
+
+
+
+        */
+
 }
 
 
